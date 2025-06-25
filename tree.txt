@@ -1,0 +1,22 @@
+.
+├── project_21
+│   ├── common.h
+│   ├── game_result.txt
+│   ├── games
+│   │   ├── player1
+│   │   ├── player1.c
+│   │   ├── player2
+│   │   ├── player2.c
+│   │   ├── record.c
+│   │   └── record.h
+│   ├── main
+│   ├── main.c
+│   ├── makefile
+│   ├── player1
+│   ├── player2
+│   ├── README.md
+│   └── record
+├── structure.txt
+└── tree.txt
+
+3 directories, 17 files

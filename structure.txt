@@ -1,0 +1,19 @@
+project_21_-main/
+├── project_21/
+│   ├── common.h                # 공통 헤더 파일
+│   ├── game_result.txt         # 게임 결과 저장 파일
+│   ├── games/                  # 게임 관련 소스 및 실행 파일
+│   │   ├── player1             # player1 실행 파일
+│   │   ├── player1.c           # player1 소스 코드
+│   │   ├── player2             # player2 실행 파일
+│   │   ├── player2.c           # player2 소스 코드
+│   │   ├── record.c            # 기록 관련 소스 코드
+│   │   └── record.h            # 기록 관련 헤더 파일
+│   ├── main                    # main 실행 파일
+│   ├── main.c                  # main 함수 소스 코드
+│   ├── makefile                # 빌드 스크립트
+│   ├── player1                 # player1 실행 파일
+│   ├── player2                 # player2 실행 파일
+│   ├── README.md               # 프로젝트 설명 문서
+│   └── record                  # 기록 관련 실행 파일
+├── structure.txt               # 디렉터리 구조를 저장한 파일

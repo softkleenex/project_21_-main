@@ -1,0 +1,52 @@
+Game: TicTacToe
+Time: 2025-06-25 00:37:41
+Winner: O
+Player 1: name2 (O)
+Player 2: name1 (X)
+Total turns: 5
+Board:
+ O | O | O 
+---|---|---
+   | X | X 
+---|---|---
+   |   |   
+--------------------------
+Game: TicTacToe
+Time: 2025-06-25 00:40:06
+Winner: X
+Player 1: 2 (O)
+Player 2: 1 (X)
+Total turns: 6
+Board:
+ O | O | X 
+---|---|---
+ O | X |   
+---|---|---
+ X |   |   
+--------------------------
+Game: TicTacToe
+Time: 2025-06-25 00:41:00
+Winner: Draw.
+Player 1: name321 (O)
+Player 2: 2 (X)
+Total turns: 9
+Board:
+ O | X | O 
+---|---|---
+ X | O | O 
+---|---|---
+ X | O | X 
+--------------------------
+Game: TicTacToe
+Time: 2025-06-25 01:09:44
+Winner: O
+Player 1: name2 (O)
+Player 2: name1 (X)
+Total turns: 7
+Board:
+ O | O | X 
+---|---|---
+ O | X | X 
+---|---|---
+ O |   |   
+--------------------------
