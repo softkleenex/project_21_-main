@@ -16,15 +16,7 @@ T-Box는 두 개의 터미널 간에 실시간 통신을 통해 사용자가 틱
 - 게임 결과 서버에 저장
 - 틱택토 외 게임 모듈 분리 구조 설계
 
-## 스크린샷
 
-### Game Visualization
-
-![Game Image](./game.png)
-
-### Game Result
-
-![Result Image](./result.png)
 
 ## 빌드 및 실행
 빌드: make 할시 자동으로 빌드됩니다.
